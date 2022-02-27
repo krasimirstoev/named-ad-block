@@ -1,0 +1,12 @@
+$TTL 86400
+@   IN  SOA master.stenata.org. hostmaster.stenata.org. (
+            2016010101  ; serial
+            21600       ; refresh after 6 hours
+            3600        ; retry after 1 hour
+            604800      ; expire after 1 week
+            86400   )   ; minimum TTL of 1 day
+
+        IN  NS  blackhole.stenata.org.
+
+@       IN  A   127.0.0.1
+*       IN  A   127.0.0.1
