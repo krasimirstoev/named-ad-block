@@ -1,15 +1,13 @@
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Fri, 18 Feb 2022 00:25:12 GMT
-// entries:         3670
+// last updated:    Thu, 24 Feb 2022 09:03:54 GMT
+// entries:         3673
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
 // other formats:   https://pgl.yoyo.org/adservers/formats.php
 // policy:          https://pgl.yoyo.org/adservers/policy.php
 
-zone "sportal.bg" { type master; notify no; file "null.zone.file"; };
-zone "facebook.com" { type master; notify no; file "null.zone.file"; };
 zone "1-1ads.com" { type master; notify no; file "null.zone.file"; };
 zone "101com.com" { type master; notify no; file "null.zone.file"; };
 zone "101order.com" { type master; notify no; file "null.zone.file"; };
@@ -72,6 +70,8 @@ zone "abackchain.com" { type master; notify no; file "null.zone.file"; };
 zone "abandonedaction.com" { type master; notify no; file "null.zone.file"; };
 zone "abc-ads.com" { type master; notify no; file "null.zone.file"; };
 zone "ablink.comms.trainline.com" { type master; notify no; file "null.zone.file"; };
+zone "ablink.news.emails-puregym.com" { type master; notify no; file "null.zone.file"; };
+zone "ablinks.mail.hinge.co" { type master; notify no; file "null.zone.file"; };
 zone "aboardlevel.com" { type master; notify no; file "null.zone.file"; };
 zone "aboutads.gr" { type master; notify no; file "null.zone.file"; };
 zone "abruptroad.com" { type master; notify no; file "null.zone.file"; };
@@ -415,7 +415,6 @@ zone "ads.boylesports.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.brabys.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.brazzers.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.bumq.com" { type master; notify no; file "null.zone.file"; };
-zone "ads.businessweek.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.canalblog.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.casinocity.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.casumoaffiliates.com" { type master; notify no; file "null.zone.file"; };
@@ -1806,6 +1805,7 @@ zone "fireworkadservices.com" { type master; notify no; file "null.zone.file"; }
 zone "fireworkanalytics.com" { type master; notify no; file "null.zone.file"; };
 zone "fireworks-advertising.com" { type master; notify no; file "null.zone.file"; };
 zone "first.nova.cz" { type master; notify no; file "null.zone.file"; };
+zone "firstlightera.com" { type master; notify no; file "null.zone.file"; };
 zone "fixel.ai" { type master; notify no; file "null.zone.file"; };
 zone "flairadscpc.com" { type master; notify no; file "null.zone.file"; };
 zone "flakyfeast.com" { type master; notify no; file "null.zone.file"; };
@@ -1878,7 +1878,6 @@ zone "geo.digitalpoint.com" { type master; notify no; file "null.zone.file"; };
 zone "geobanner.adultfriendfinder.com" { type master; notify no; file "null.zone.file"; };
 zone "georiot.com" { type master; notify no; file "null.zone.file"; };
 zone "geovisite.com" { type master; notify no; file "null.zone.file"; };
-zone "get-best-prizes.life" { type master; notify no; file "null.zone.file"; };
 zone "getclicky.com" { type master; notify no; file "null.zone.file"; };
 zone "getintent.com" { type master; notify no; file "null.zone.file"; };
 zone "getmyads.com" { type master; notify no; file "null.zone.file"; };
@@ -2247,6 +2246,7 @@ zone "look.ichlnk.com" { type master; notify no; file "null.zone.file"; };
 zone "look.opskln.com" { type master; notify no; file "null.zone.file"; };
 zone "look.ufinkln.com" { type master; notify no; file "null.zone.file"; };
 zone "loopme.com" { type master; notify no; file "null.zone.file"; };
+zone "lop.com" { type master; notify no; file "null.zone.file"; };
 zone "loudlunch.com" { type master; notify no; file "null.zone.file"; };
 zone "lp3tdqle.com" { type master; notify no; file "null.zone.file"; };
 zone "lucidmedia.com" { type master; notify no; file "null.zone.file"; };
@@ -2292,7 +2292,6 @@ zone "matomo.activate.cz" { type master; notify no; file "null.zone.file"; };
 zone "matomo.crossiety.app" { type master; notify no; file "null.zone.file"; };
 zone "matomo.gals24.ru" { type master; notify no; file "null.zone.file"; };
 zone "matomo.hdweb.ru" { type master; notify no; file "null.zone.file"; };
-zone "matomo.kmkb.ru" { type master; notify no; file "null.zone.file"; };
 zone "matomo.zwetok.ru" { type master; notify no; file "null.zone.file"; };
 zone "mautic.com" { type master; notify no; file "null.zone.file"; };
 zone "max.i12.de" { type master; notify no; file "null.zone.file"; };
@@ -2760,6 +2759,7 @@ zone "px.dynamicyield.com" { type master; notify no; file "null.zone.file"; };
 zone "px.gfycat.com" { type master; notify no; file "null.zone.file"; };
 zone "px.spiceworks.com" { type master; notify no; file "null.zone.file"; };
 zone "pxf.io" { type master; notify no; file "null.zone.file"; };
+zone "pxl-mailtracker.com" { type master; notify no; file "null.zone.file"; };
 zone "pxl.iqm.com" { type master; notify no; file "null.zone.file"; };
 zone "pymx5.com" { type master; notify no; file "null.zone.file"; };
 zone "q.azcentral.com" { type master; notify no; file "null.zone.file"; };
@@ -2776,6 +2776,7 @@ zone "quantserve.com" { type master; notify no; file "null.zone.file"; };
 zone "quantummetric.com" { type master; notify no; file "null.zone.file"; };
 zone "quarterbean.com" { type master; notify no; file "null.zone.file"; };
 zone "quarterserver.de" { type master; notify no; file "null.zone.file"; };
+zone "questaffiliates.net" { type master; notify no; file "null.zone.file"; };
 zone "quickkoala.io" { type master; notify no; file "null.zone.file"; };
 zone "quicksandear.com" { type master; notify no; file "null.zone.file"; };
 zone "quietknowledge.com" { type master; notify no; file "null.zone.file"; };
