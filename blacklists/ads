@@ -1,8 +1,8 @@
-#last update: Thu Mar  3 19:00:07 EET 2022
+#last update: Thu Mar  3 19:15:02 EET 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Wed, 02 Mar 2022 22:26:29 GMT
-// entries:         3674
+// last updated:    Thu, 03 Mar 2022 16:50:49 GMT
+// entries:         3675
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -160,6 +160,7 @@ zone "ad.period-calendar.com" { type master; notify no; file "null.zone.file"; }
 zone "ad.preferances.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.profiwin.de" { type master; notify no; file "null.zone.file"; };
 zone "ad.prv.pl" { type master; notify no; file "null.zone.file"; };
+zone "ad.reachlocal.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.simflight.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.simgames.net" { type master; notify no; file "null.zone.file"; };
 zone "ad.style" { type master; notify no; file "null.zone.file"; };
