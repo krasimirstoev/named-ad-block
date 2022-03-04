@@ -1,8 +1,8 @@
-#last update: Fri Mar  4 14:45:01 EET 2022
+#last update: Fri Mar  4 15:45:02 EET 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Thu, 03 Mar 2022 16:50:49 GMT
-// entries:         3675
+// entries:         3673
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -529,7 +529,6 @@ zone "ads.itv.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.iwon.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.jewishfriendfinder.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.jobsite.co.uk" { type master; notify no; file "null.zone.file"; };
-zone "ads.jpost.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.justhungry.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.kabooaffiliates.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.kaktuz.net" { type master; notify no; file "null.zone.file"; };
@@ -952,6 +951,7 @@ zone "affiliate.1800flowers.com" { type master; notify no; file "null.zone.file"
 zone "affiliate.doubleyourdating.com" { type master; notify no; file "null.zone.file"; };
 zone "affiliate.dtiserv.com" { type master; notify no; file "null.zone.file"; };
 zone "affiliate.gamestop.com" { type master; notify no; file "null.zone.file"; };
+zone "affiliate.mogs.com" { type master; notify no; file "null.zone.file"; };
 zone "affiliate.offgamers.com" { type master; notify no; file "null.zone.file"; };
 zone "affiliate.rusvpn.com" { type master; notify no; file "null.zone.file"; };
 zone "affiliate.travelnow.com" { type master; notify no; file "null.zone.file"; };
@@ -2442,7 +2442,6 @@ zone "naj22.proasdf.com" { type master; notify no; file "null.zone.file"; };
 zone "nappyattack.com" { type master; notify no; file "null.zone.file"; };
 zone "naradxb.com" { type master; notify no; file "null.zone.file"; };
 zone "nastydollars.com" { type master; notify no; file "null.zone.file"; };
-zone "nativeroll.tv" { type master; notify no; file "null.zone.file"; };
 zone "naturalbid.com" { type master; notify no; file "null.zone.file"; };
 zone "navegg.com" { type master; notify no; file "null.zone.file"; };
 zone "navigator.io" { type master; notify no; file "null.zone.file"; };
@@ -3185,7 +3184,6 @@ zone "superclix.de" { type master; notify no; file "null.zone.file"; };
 zone "superficialsquare.com" { type master; notify no; file "null.zone.file"; };
 zone "supersonicads.com" { type master; notify no; file "null.zone.file"; };
 zone "superstats.com" { type master; notify no; file "null.zone.file"; };
-zone "supertop.ru" { type master; notify no; file "null.zone.file"; };
 zone "supertop100.com" { type master; notify no; file "null.zone.file"; };
 zone "supertracking.net" { type master; notify no; file "null.zone.file"; };
 zone "supply.colossusssp.com" { type master; notify no; file "null.zone.file"; };
