@@ -1,8 +1,8 @@
-#last update: Sat Mar 12 12:45:02 EET 2022
+#last update: Sat Mar 12 13:00:02 EET 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Thu, 10 Mar 2022 09:07:12 GMT
-// entries:         3672
+// entries:         3671
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1447,7 +1447,6 @@ zone "cnt1.pocitadlo.cz" { type master; notify no; file "null.zone.file"; };
 zone "cny.yoyo.org" { type master; notify no; file "null.zone.file"; };
 zone "codeadnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "cognitiv.ai" { type master; notify no; file "null.zone.file"; };
-zone "coin-hive.com" { type master; notify no; file "null.zone.file"; };
 zone "cointraffic.io" { type master; notify no; file "null.zone.file"; };
 zone "collector-dev.cdp-dev.cnn.com" { type master; notify no; file "null.zone.file"; };
 zone "collector.cdp.cnn.com" { type master; notify no; file "null.zone.file"; };
