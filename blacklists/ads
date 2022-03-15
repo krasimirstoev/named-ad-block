@@ -1,7 +1,7 @@
-#last update: Tue Mar 15 16:45:01 EET 2022
+#last update: Tue Mar 15 17:00:07 EET 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Thu, 10 Mar 2022 09:07:12 GMT
+// last updated:    Tue, 15 Mar 2022 13:53:25 GMT
 // entries:         3671
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
@@ -2893,11 +2893,11 @@ zone "robotreplay.com" { type master; notify no; file "null.zone.file"; };
 zone "rockabox.co" { type master; notify no; file "null.zone.file"; };
 zone "roia.biz" { type master; notify no; file "null.zone.file"; };
 zone "rok.com.com" { type master; notify no; file "null.zone.file"; };
-zone "roq.ad" { type master; notify no; file "null.zone.file"; };
 zone "rose.ixbt.com" { type master; notify no; file "null.zone.file"; };
 zone "rotabanner.com" { type master; notify no; file "null.zone.file"; };
 zone "roughroll.com" { type master; notify no; file "null.zone.file"; };
 zone "roxr.net" { type master; notify no; file "null.zone.file"; };
+zone "rqtrk.eu" { type master; notify no; file "null.zone.file"; };
 zone "rs6.net" { type master; notify no; file "null.zone.file"; };
 zone "rta.dailymail.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "rtb.gumgum.com" { type master; notify no; file "null.zone.file"; };
