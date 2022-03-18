@@ -1,8 +1,8 @@
-#last update: Fri Mar 18 12:45:02 EET 2022
+#last update: Fri Mar 18 13:00:02 EET 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Tue, 15 Mar 2022 13:53:25 GMT
-// entries:         3671
+// last updated:    Fri, 18 Mar 2022 10:39:57 GMT
+// entries:         3672
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -2274,6 +2274,7 @@ zone "markedcrayon.com" { type master; notify no; file "null.zone.file"; };
 zone "markedpail.com" { type master; notify no; file "null.zone.file"; };
 zone "market-buster.com" { type master; notify no; file "null.zone.file"; };
 zone "marketing.888.com" { type master; notify no; file "null.zone.file"; };
+zone "marketing.desertcart.com" { type master; notify no; file "null.zone.file"; };
 zone "marketing.hearstmagazines.nl" { type master; notify no; file "null.zone.file"; };
 zone "marketing.net.brillen.de" { type master; notify no; file "null.zone.file"; };
 zone "marketing.net.home24.de" { type master; notify no; file "null.zone.file"; };
