@@ -1,2 +1,0 @@
-zone facebook.com { type master; notify no; file "null.zone.file"; };
-zone fb.com { type master; notify no; file "null.zone.file"; };
