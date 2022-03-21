@@ -1,8 +1,8 @@
-#last update: Mon Mar 21 12:45:01 EET 2022
+#last update: Mon Mar 21 13:00:02 EET 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Fri, 18 Mar 2022 14:42:53 GMT
-// entries:         3708
+// entries:         3707
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -2113,7 +2113,6 @@ zone "ip193.cn" { type master; notify no; file "null.zone.file"; };
 zone "iperceptions.com" { type master; notify no; file "null.zone.file"; };
 zone "ipredictive.com" { type master; notify no; file "null.zone.file"; };
 zone "ipstack.com" { type master; notify no; file "null.zone.file"; };
-zone "iraiser.eu" { type master; notify no; file "null.zone.file"; };
 zone "irchan.com" { type master; notify no; file "null.zone.file"; };
 zone "ireklama.cz" { type master; notify no; file "null.zone.file"; };
 zone "is-tracking-pixel-api-prod.appspot.com" { type master; notify no; file "null.zone.file"; };
