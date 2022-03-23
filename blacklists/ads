@@ -1,8 +1,8 @@
-#last update: Wed Mar 23 19:00:07 EET 2022
+#last update: Wed Mar 23 19:15:01 EET 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Mon, 21 Mar 2022 20:21:16 GMT
-// entries:         3690
+// last updated:    Wed, 23 Mar 2022 16:07:32 GMT
+// entries:         3691
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1307,6 +1307,7 @@ zone "bwp.download.com" { type master; notify no; file "null.zone.file"; };
 zone "c.bigmir.net" { type master; notify no; file "null.zone.file"; };
 zone "c1.nowlinux.com" { type master; notify no; file "null.zone.file"; };
 zone "c1exchange.com" { type master; notify no; file "null.zone.file"; };
+zone "c212.net" { type master; notify no; file "null.zone.file"; };
 zone "calculatingcircle.com" { type master; notify no; file "null.zone.file"; };
 zone "calculatingtoothbrush.com" { type master; notify no; file "null.zone.file"; };
 zone "calculatorcamera.com" { type master; notify no; file "null.zone.file"; };
