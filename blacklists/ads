@@ -1,8 +1,8 @@
-#last update: Thu Mar 24 21:15:01 EET 2022
+#last update: Thu Mar 24 21:30:02 EET 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Wed, 23 Mar 2022 16:07:32 GMT
-// entries:         3691
+// last updated:    Thu, 24 Mar 2022 19:16:22 GMT
+// entries:         3692
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -2467,6 +2467,7 @@ zone "netagent.cz" { type master; notify no; file "null.zone.file"; };
 zone "netclickstats.com" { type master; notify no; file "null.zone.file"; };
 zone "netcommunities.com" { type master; notify no; file "null.zone.file"; };
 zone "netdirect.nl" { type master; notify no; file "null.zone.file"; };
+zone "netech.postaffiliatepro.com" { type master; notify no; file "null.zone.file"; };
 zone "netincap.com" { type master; notify no; file "null.zone.file"; };
 zone "netmera-web.com" { type master; notify no; file "null.zone.file"; };
 zone "netmera.com" { type master; notify no; file "null.zone.file"; };
