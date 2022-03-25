@@ -1,8 +1,8 @@
-#last update: Fri Mar 25 01:45:01 EET 2022
+#last update: Fri Mar 25 02:00:07 EET 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Thu, 24 Mar 2022 19:16:22 GMT
-// entries:         3692
+// last updated:    Thu, 24 Mar 2022 23:01:11 GMT
+// entries:         3693
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -30,6 +30,7 @@ zone "3337723.com" { type master; notify no; file "null.zone.file"; };
 zone "33across.com" { type master; notify no; file "null.zone.file"; };
 zone "360yield.com" { type master; notify no; file "null.zone.file"; };
 zone "3lift.com" { type master; notify no; file "null.zone.file"; };
+zone "3o9s.short.gy" { type master; notify no; file "null.zone.file"; };
 zone "4affiliate.net" { type master; notify no; file "null.zone.file"; };
 zone "4d5.net" { type master; notify no; file "null.zone.file"; };
 zone "4info.com" { type master; notify no; file "null.zone.file"; };
