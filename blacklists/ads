@@ -1,8 +1,8 @@
-#last update: Fri Apr  1 14:15:01 EEST 2022
+#last update: Fri Apr  1 14:30:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Tue, 29 Mar 2022 18:35:37 GMT
-// entries:         3690
+// entries:         3687
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1031,7 +1031,6 @@ zone "analytics.swiggy.com" { type master; notify no; file "null.zone.file"; };
 zone "analytics.xelondigital.com" { type master; notify no; file "null.zone.file"; };
 zone "analytics.yahoo.com" { type master; notify no; file "null.zone.file"; };
 zone "analyticsapi.happypancake.net" { type master; notify no; file "null.zone.file"; };
-zone "analytik.xyz" { type master; notify no; file "null.zone.file"; };
 zone "ancientact.com" { type master; notify no; file "null.zone.file"; };
 zone "aniview.com" { type master; notify no; file "null.zone.file"; };
 zone "annonser.dagbladet.no" { type master; notify no; file "null.zone.file"; };
@@ -2139,7 +2138,6 @@ zone "kanoodle.com" { type master; notify no; file "null.zone.file"; };
 zone "kargo.com" { type master; notify no; file "null.zone.file"; };
 zone "karonty.com" { type master; notify no; file "null.zone.file"; };
 zone "katie.v4.byetnc.com" { type master; notify no; file "null.zone.file"; };
-zone "kesmatic.com" { type master; notify no; file "null.zone.file"; };
 zone "keymedia.hu" { type master; notify no; file "null.zone.file"; };
 zone "kindads.com" { type master; notify no; file "null.zone.file"; };
 zone "kissmetrics.com" { type master; notify no; file "null.zone.file"; };
@@ -2960,7 +2958,6 @@ zone "scorecardresearch.com" { type master; notify no; file "null.zone.file"; };
 zone "scratch2cash.com" { type master; notify no; file "null.zone.file"; };
 zone "screechingfurniture.com" { type master; notify no; file "null.zone.file"; };
 zone "screechingstove.com" { type master; notify no; file "null.zone.file"; };
-zone "scripte-monster.de" { type master; notify no; file "null.zone.file"; };
 zone "scrubswim.com" { type master; notify no; file "null.zone.file"; };
 zone "sdkfjxjertertry.com" { type master; notify no; file "null.zone.file"; };
 zone "seadform.net" { type master; notify no; file "null.zone.file"; };
@@ -3077,7 +3074,6 @@ zone "sourcepoint.vice.com" { type master; notify no; file "null.zone.file"; };
 zone "sovrn.com" { type master; notify no; file "null.zone.file"; };
 zone "spacash.com" { type master; notify no; file "null.zone.file"; };
 zone "spaceleadster.com" { type master; notify no; file "null.zone.file"; };
-zone "spannersalesman.com" { type master; notify no; file "null.zone.file"; };
 zone "sparklingshelf.com" { type master; notify no; file "null.zone.file"; };
 zone "sparkstudios.com" { type master; notify no; file "null.zone.file"; };
 zone "speakol.com" { type master; notify no; file "null.zone.file"; };
@@ -3134,6 +3130,7 @@ zone "stat.webmedia.pl" { type master; notify no; file "null.zone.file"; };
 zone "stat.xiaomi.com" { type master; notify no; file "null.zone.file"; };
 zone "stat.zenon.net" { type master; notify no; file "null.zone.file"; };
 zone "stat24.com" { type master; notify no; file "null.zone.file"; };
+zone "stat24.meta.ua" { type master; notify no; file "null.zone.file"; };
 zone "statcounter.com" { type master; notify no; file "null.zone.file"; };
 zone "statdynamic.com" { type master; notify no; file "null.zone.file"; };
 zone "static-tracking.klaviyo.com" { type master; notify no; file "null.zone.file"; };
@@ -3349,7 +3346,6 @@ zone "track.mailalert.io" { type master; notify no; file "null.zone.file"; };
 zone "track.mailerlite.com" { type master; notify no; file "null.zone.file"; };
 zone "track.miro.com" { type master; notify no; file "null.zone.file"; };
 zone "track.segmetrics.io" { type master; notify no; file "null.zone.file"; };
-zone "track.software-codes.com" { type master; notify no; file "null.zone.file"; };
 zone "track.themaccleanup.info" { type master; notify no; file "null.zone.file"; };
 zone "track.ultravpn.com" { type master; notify no; file "null.zone.file"; };
 zone "track.unear.net" { type master; notify no; file "null.zone.file"; };
@@ -3634,6 +3630,7 @@ zone "www-banner.chat.ru" { type master; notify no; file "null.zone.file"; };
 zone "www-google-analytics.l.google.com" { type master; notify no; file "null.zone.file"; };
 zone "www.dnps.com" { type master; notify no; file "null.zone.file"; };
 zone "www.kaplanindex.com" { type master; notify no; file "null.zone.file"; };
+zone "www.photo-ads.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "www8.glam.com" { type master; notify no; file "null.zone.file"; };
 zone "wwwpromoter.com" { type master; notify no; file "null.zone.file"; };
 zone "x-traceur.com" { type master; notify no; file "null.zone.file"; };
