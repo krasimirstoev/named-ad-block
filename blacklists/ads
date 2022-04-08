@@ -1,8 +1,8 @@
-#last update: Fri Apr  8 19:45:01 EEST 2022
+#last update: Fri Apr  8 20:00:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Tue, 29 Mar 2022 18:35:37 GMT
-// entries:         3684
+// entries:         3683
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -2472,7 +2472,6 @@ zone "netpool.netbookia.net" { type master; notify no; file "null.zone.file"; };
 zone "netshelter.net" { type master; notify no; file "null.zone.file"; };
 zone "neudesicmediagroup.com" { type master; notify no; file "null.zone.file"; };
 zone "newads.bangbros.com" { type master; notify no; file "null.zone.file"; };
-zone "newbie.com" { type master; notify no; file "null.zone.file"; };
 zone "newnet.qsrch.com" { type master; notify no; file "null.zone.file"; };
 zone "newnudecash.com" { type master; notify no; file "null.zone.file"; };
 zone "newopenx.detik.com" { type master; notify no; file "null.zone.file"; };
