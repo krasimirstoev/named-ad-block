@@ -1,8 +1,8 @@
-#last update: Fri Apr  8 14:15:01 EEST 2022
+#last update: Fri Apr  8 14:30:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Tue, 29 Mar 2022 18:35:37 GMT
-// entries:         3687
+// entries:         3684
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -700,7 +700,6 @@ zone "ads.yldmgrimg.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.yourfreedvds.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.youtube.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.yumenetworks.com" { type master; notify no; file "null.zone.file"; };
-zone "ads.zmarsa.com" { type master; notify no; file "null.zone.file"; };
 zone "ads1-adnow.com" { type master; notify no; file "null.zone.file"; };
 zone "ads1.mediacapital.pt" { type master; notify no; file "null.zone.file"; };
 zone "ads1.msn.com" { type master; notify no; file "null.zone.file"; };
@@ -1844,6 +1843,7 @@ zone "freeonlineusers.com" { type master; notify no; file "null.zone.file"; };
 zone "freepay.com" { type master; notify no; file "null.zone.file"; };
 zone "freeskreen.com" { type master; notify no; file "null.zone.file"; };
 zone "freestats.com" { type master; notify no; file "null.zone.file"; };
+zone "freestats.tv" { type master; notify no; file "null.zone.file"; };
 zone "freewebcounter.com" { type master; notify no; file "null.zone.file"; };
 zone "freewheel.com" { type master; notify no; file "null.zone.file"; };
 zone "freewheel.tv" { type master; notify no; file "null.zone.file"; };
@@ -2137,7 +2137,7 @@ zone "kameleoon.eu" { type master; notify no; file "null.zone.file"; };
 zone "kanoodle.com" { type master; notify no; file "null.zone.file"; };
 zone "kargo.com" { type master; notify no; file "null.zone.file"; };
 zone "karonty.com" { type master; notify no; file "null.zone.file"; };
-zone "katie.v4.byetnc.com" { type master; notify no; file "null.zone.file"; };
+zone "kesmatic.com" { type master; notify no; file "null.zone.file"; };
 zone "keymedia.hu" { type master; notify no; file "null.zone.file"; };
 zone "kindads.com" { type master; notify no; file "null.zone.file"; };
 zone "kissmetrics.com" { type master; notify no; file "null.zone.file"; };
@@ -2447,7 +2447,6 @@ zone "nappyattack.com" { type master; notify no; file "null.zone.file"; };
 zone "naradxb.com" { type master; notify no; file "null.zone.file"; };
 zone "nastydollars.com" { type master; notify no; file "null.zone.file"; };
 zone "nativeroll.tv" { type master; notify no; file "null.zone.file"; };
-zone "naturalbid.com" { type master; notify no; file "null.zone.file"; };
 zone "navegg.com" { type master; notify no; file "null.zone.file"; };
 zone "navigator.io" { type master; notify no; file "null.zone.file"; };
 zone "navrcholu.cz" { type master; notify no; file "null.zone.file"; };
@@ -2555,7 +2554,6 @@ zone "openads.friendfinder.com" { type master; notify no; file "null.zone.file";
 zone "openads.org" { type master; notify no; file "null.zone.file"; };
 zone "openadsnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "opentag-stats.qubit.com" { type master; notify no; file "null.zone.file"; };
-zone "openx.actvtech.com" { type master; notify no; file "null.zone.file"; };
 zone "openx.angelsgroup.org.uk" { type master; notify no; file "null.zone.file"; };
 zone "openx.cairo360.com" { type master; notify no; file "null.zone.file"; };
 zone "openx.kgmedia.eu" { type master; notify no; file "null.zone.file"; };
@@ -2933,7 +2931,6 @@ zone "s.adroll.com" { type master; notify no; file "null.zone.file"; };
 zone "s1-adfly.com" { type master; notify no; file "null.zone.file"; };
 zone "s20dh7e9dh.com" { type master; notify no; file "null.zone.file"; };
 zone "s2d6.com" { type master; notify no; file "null.zone.file"; };
-zone "s2strk.info" { type master; notify no; file "null.zone.file"; };
 zone "sa.api.intl.miui.com" { type master; notify no; file "null.zone.file"; };
 zone "sabio.us" { type master; notify no; file "null.zone.file"; };
 zone "sageanalyst.net" { type master; notify no; file "null.zone.file"; };
