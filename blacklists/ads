@@ -1,8 +1,8 @@
-#last update: Mon Apr 11 19:45:02 EEST 2022
+#last update: Mon Apr 11 20:00:01 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Sat, 09 Apr 2022 09:41:20 GMT
-// entries:         3684
+// last updated:    Mon, 11 Apr 2022 16:33:35 GMT
+// entries:         3685
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -3331,6 +3331,7 @@ zone "totemcash.com" { type master; notify no; file "null.zone.file"; };
 zone "touchclarity.com" { type master; notify no; file "null.zone.file"; };
 zone "touchclarity.natwest.com" { type master; notify no; file "null.zone.file"; };
 zone "tour.brazzers.com" { type master; notify no; file "null.zone.file"; };
+zone "track-tracingkit394853.com" { type master; notify no; file "null.zone.file"; };
 zone "track.adform.net" { type master; notify no; file "null.zone.file"; };
 zone "track.anchorfree.com" { type master; notify no; file "null.zone.file"; };
 zone "track.contently.com" { type master; notify no; file "null.zone.file"; };
