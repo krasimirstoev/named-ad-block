@@ -1,8 +1,8 @@
-#last update: Tue Apr 12 02:00:03 EEST 2022
+#last update: Tue Apr 12 02:15:01 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Mon, 11 Apr 2022 16:33:35 GMT
-// entries:         3685
+// last updated:    Mon, 11 Apr 2022 22:33:45 GMT
+// entries:         3687
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1761,6 +1761,7 @@ zone "exoclick.com" { type master; notify no; file "null.zone.file"; };
 zone "exosrv.com" { type master; notify no; file "null.zone.file"; };
 zone "experianmarketingservices.digital" { type master; notify no; file "null.zone.file"; };
 zone "explorads.com" { type master; notify no; file "null.zone.file"; };
+zone "expmediadirect1.com" { type master; notify no; file "null.zone.file"; };
 zone "exponea.com" { type master; notify no; file "null.zone.file"; };
 zone "exponential.com" { type master; notify no; file "null.zone.file"; };
 zone "express-submit.de" { type master; notify no; file "null.zone.file"; };
@@ -1924,6 +1925,7 @@ zone "greetzebra.com" { type master; notify no; file "null.zone.file"; };
 zone "greyinstrument.com" { type master; notify no; file "null.zone.file"; };
 zone "greystripe.com" { type master; notify no; file "null.zone.file"; };
 zone "groundtruth.com" { type master; notify no; file "null.zone.file"; };
+zone "grychiphidu.com" { type master; notify no; file "null.zone.file"; };
 zone "gscontxt.net" { type master; notify no; file "null.zone.file"; };
 zone "gstaticx.com" { type master; notify no; file "null.zone.file"; };
 zone "gtop100.com" { type master; notify no; file "null.zone.file"; };
