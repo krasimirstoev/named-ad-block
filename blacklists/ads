@@ -1,8 +1,8 @@
-#last update: Fri Apr 15 14:00:02 EEST 2022
+#last update: Fri Apr 15 14:15:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Mon, 11 Apr 2022 22:33:45 GMT
-// entries:         3687
+// entries:         3682
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -506,7 +506,6 @@ zone "ads.gsmexchange.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.guardian.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "ads.guardianunlimited.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "ads.guru3d.com" { type master; notify no; file "null.zone.file"; };
-zone "ads.harpers.org" { type master; notify no; file "null.zone.file"; };
 zone "ads.hbv.de" { type master; notify no; file "null.zone.file"; };
 zone "ads.hearstmags.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.heartlight.org" { type master; notify no; file "null.zone.file"; };
@@ -927,7 +926,6 @@ zone "adworx.nl" { type master; notify no; file "null.zone.file"; };
 zone "adx.allstar.cz" { type master; notify no; file "null.zone.file"; };
 zone "adx.atnext.com" { type master; notify no; file "null.zone.file"; };
 zone "adx.gayboy.at" { type master; notify no; file "null.zone.file"; };
-zone "adx.relaksit.ru" { type master; notify no; file "null.zone.file"; };
 zone "adxpansion.com" { type master; notify no; file "null.zone.file"; };
 zone "adxpose.com" { type master; notify no; file "null.zone.file"; };
 zone "adxvalue.com" { type master; notify no; file "null.zone.file"; };
@@ -1541,7 +1539,6 @@ zone "crtv.mate1.com" { type master; notify no; file "null.zone.file"; };
 zone "crwdcntrl.net" { type master; notify no; file "null.zone.file"; };
 zone "crypto-loot.org" { type master; notify no; file "null.zone.file"; };
 zone "ctnetwork.hu" { type master; notify no; file "null.zone.file"; };
-zone "cubics.com" { type master; notify no; file "null.zone.file"; };
 zone "culturedcrayon.com" { type master; notify no; file "null.zone.file"; };
 zone "cumbersomecloud.com" { type master; notify no; file "null.zone.file"; };
 zone "curtaincows.com" { type master; notify no; file "null.zone.file"; };
@@ -1936,7 +1933,6 @@ zone "h-bid.com" { type master; notify no; file "null.zone.file"; };
 zone "h0.t.hubspotemail.net" { type master; notify no; file "null.zone.file"; };
 zone "h78xb.pw" { type master; notify no; file "null.zone.file"; };
 zone "habitualhumor.com" { type master; notify no; file "null.zone.file"; };
-zone "hadskiz.com" { type master; notify no; file "null.zone.file"; };
 zone "haltingbadge.com" { type master; notify no; file "null.zone.file"; };
 zone "hammerhearing.com" { type master; notify no; file "null.zone.file"; };
 zone "handyfield.com" { type master; notify no; file "null.zone.file"; };
@@ -2450,6 +2446,7 @@ zone "nappyattack.com" { type master; notify no; file "null.zone.file"; };
 zone "naradxb.com" { type master; notify no; file "null.zone.file"; };
 zone "nastydollars.com" { type master; notify no; file "null.zone.file"; };
 zone "nativeroll.tv" { type master; notify no; file "null.zone.file"; };
+zone "naturalbid.com" { type master; notify no; file "null.zone.file"; };
 zone "navegg.com" { type master; notify no; file "null.zone.file"; };
 zone "navigator.io" { type master; notify no; file "null.zone.file"; };
 zone "navrcholu.cz" { type master; notify no; file "null.zone.file"; };
@@ -2662,7 +2659,6 @@ zone "pixel.watch" { type master; notify no; file "null.zone.file"; };
 zone "pixel.yabidos.com" { type master; notify no; file "null.zone.file"; };
 zone "placed.com" { type master; notify no; file "null.zone.file"; };
 zone "plardi.com" { type master; notify no; file "null.zone.file"; };
-zone "plausible.mangadex.org" { type master; notify no; file "null.zone.file"; };
 zone "plausibleio.workers.dev" { type master; notify no; file "null.zone.file"; };
 zone "play4traffic.com" { type master; notify no; file "null.zone.file"; };
 zone "playhaven.com" { type master; notify no; file "null.zone.file"; };
@@ -2884,7 +2880,6 @@ zone "revive.netriota.hu" { type master; notify no; file "null.zone.file"; };
 zone "revive.plays.bg" { type master; notify no; file "null.zone.file"; };
 zone "revlift.io" { type master; notify no; file "null.zone.file"; };
 zone "revprotect.com" { type master; notify no; file "null.zone.file"; };
-zone "revsci.net" { type master; notify no; file "null.zone.file"; };
 zone "revstats.com" { type master; notify no; file "null.zone.file"; };
 zone "reyden-x.com" { type master; notify no; file "null.zone.file"; };
 zone "rhombusads.com" { type master; notify no; file "null.zone.file"; };
@@ -3333,7 +3328,6 @@ zone "totemcash.com" { type master; notify no; file "null.zone.file"; };
 zone "touchclarity.com" { type master; notify no; file "null.zone.file"; };
 zone "touchclarity.natwest.com" { type master; notify no; file "null.zone.file"; };
 zone "tour.brazzers.com" { type master; notify no; file "null.zone.file"; };
-zone "track-tracingkit394853.com" { type master; notify no; file "null.zone.file"; };
 zone "track.adform.net" { type master; notify no; file "null.zone.file"; };
 zone "track.anchorfree.com" { type master; notify no; file "null.zone.file"; };
 zone "track.contently.com" { type master; notify no; file "null.zone.file"; };
@@ -3346,6 +3340,7 @@ zone "track.mailalert.io" { type master; notify no; file "null.zone.file"; };
 zone "track.mailerlite.com" { type master; notify no; file "null.zone.file"; };
 zone "track.miro.com" { type master; notify no; file "null.zone.file"; };
 zone "track.segmetrics.io" { type master; notify no; file "null.zone.file"; };
+zone "track.software-codes.com" { type master; notify no; file "null.zone.file"; };
 zone "track.themaccleanup.info" { type master; notify no; file "null.zone.file"; };
 zone "track.ultravpn.com" { type master; notify no; file "null.zone.file"; };
 zone "track.unear.net" { type master; notify no; file "null.zone.file"; };
