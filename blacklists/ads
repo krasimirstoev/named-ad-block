@@ -1,8 +1,8 @@
-#last update: Fri Apr 22 14:45:01 EEST 2022
+#last update: Fri Apr 22 15:00:07 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Mon, 11 Apr 2022 22:33:45 GMT
-// entries:         3681
+// entries:         3678
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -321,7 +321,6 @@ zone "admixer.net" { type master; notify no; file "null.zone.file"; };
 zone "admized.com" { type master; notify no; file "null.zone.file"; };
 zone "admob.com" { type master; notify no; file "null.zone.file"; };
 zone "admonitor.com" { type master; notify no; file "null.zone.file"; };
-zone "admotion.com.ar" { type master; notify no; file "null.zone.file"; };
 zone "adn.lrb.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "adnet.asahi.com" { type master; notify no; file "null.zone.file"; };
 zone "adnet.biz" { type master; notify no; file "null.zone.file"; };
@@ -1538,6 +1537,7 @@ zone "crtv.mate1.com" { type master; notify no; file "null.zone.file"; };
 zone "crwdcntrl.net" { type master; notify no; file "null.zone.file"; };
 zone "crypto-loot.org" { type master; notify no; file "null.zone.file"; };
 zone "ctnetwork.hu" { type master; notify no; file "null.zone.file"; };
+zone "cubics.com" { type master; notify no; file "null.zone.file"; };
 zone "culturedcrayon.com" { type master; notify no; file "null.zone.file"; };
 zone "cumbersomecloud.com" { type master; notify no; file "null.zone.file"; };
 zone "curtaincows.com" { type master; notify no; file "null.zone.file"; };
@@ -2912,7 +2912,6 @@ zone "rtbidhost.com" { type master; notify no; file "null.zone.file"; };
 zone "rtbplatform.net" { type master; notify no; file "null.zone.file"; };
 zone "rtbpop.com" { type master; notify no; file "null.zone.file"; };
 zone "rtbpopd.com" { type master; notify no; file "null.zone.file"; };
-zone "rtbtradein.com" { type master; notify no; file "null.zone.file"; };
 zone "rtmark.net" { type master; notify no; file "null.zone.file"; };
 zone "rtpdn11.com" { type master; notify no; file "null.zone.file"; };
 zone "rtxplatform.com" { type master; notify no; file "null.zone.file"; };
@@ -3224,7 +3223,6 @@ zone "takethatad.com" { type master; notify no; file "null.zone.file"; };
 zone "takru.com" { type master; notify no; file "null.zone.file"; };
 zone "talentedsteel.com" { type master; notify no; file "null.zone.file"; };
 zone "tamgrt.com" { type master; notify no; file "null.zone.file"; };
-zone "tangerinenet.biz" { type master; notify no; file "null.zone.file"; };
 zone "tangibleteam.com" { type master; notify no; file "null.zone.file"; };
 zone "tapad.com" { type master; notify no; file "null.zone.file"; };
 zone "tapfiliate.com" { type master; notify no; file "null.zone.file"; };
@@ -3506,7 +3504,6 @@ zone "venetrigni.com" { type master; notify no; file "null.zone.file"; };
 zone "ventivmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "venturead.com" { type master; notify no; file "null.zone.file"; };
 zone "verblife-3.co" { type master; notify no; file "null.zone.file"; };
-zone "verblife-4.co" { type master; notify no; file "null.zone.file"; };
 zone "verblife-5.co" { type master; notify no; file "null.zone.file"; };
 zone "vericlick.com" { type master; notify no; file "null.zone.file"; };
 zone "vertamedia.com" { type master; notify no; file "null.zone.file"; };
