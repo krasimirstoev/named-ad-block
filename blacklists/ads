@@ -1,8 +1,8 @@
-#last update: Mon Apr 25 16:00:01 EEST 2022
+#last update: Mon Apr 25 16:15:01 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Mon, 11 Apr 2022 22:33:45 GMT
-// entries:         3678
+// last updated:    Mon, 25 Apr 2022 12:42:13 GMT
+// entries:         3679
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -3333,6 +3333,7 @@ zone "track.flexlinks.com" { type master; notify no; file "null.zone.file"; };
 zone "track.flexlinkspro.com" { type master; notify no; file "null.zone.file"; };
 zone "track.freemmo2017.com" { type master; notify no; file "null.zone.file"; };
 zone "track.game18click.com" { type master; notify no; file "null.zone.file"; };
+zone "track.lettingaproperty.com" { type master; notify no; file "null.zone.file"; };
 zone "track.mailalert.io" { type master; notify no; file "null.zone.file"; };
 zone "track.mailerlite.com" { type master; notify no; file "null.zone.file"; };
 zone "track.miro.com" { type master; notify no; file "null.zone.file"; };
