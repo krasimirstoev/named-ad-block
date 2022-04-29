@@ -1,8 +1,8 @@
-#last update: Fri Apr 29 14:45:01 EEST 2022
+#last update: Fri Apr 29 15:00:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Mon, 25 Apr 2022 12:42:13 GMT
-// entries:         3679
+// entries:         3677
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -694,7 +694,6 @@ zone "ads.yahoo.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.yap.yahoo.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.yimg.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.yldmgrimg.net" { type master; notify no; file "null.zone.file"; };
-zone "ads.yourfreedvds.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.youtube.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.yumenetworks.com" { type master; notify no; file "null.zone.file"; };
 zone "ads1-adnow.com" { type master; notify no; file "null.zone.file"; };
@@ -1833,7 +1832,6 @@ zone "frailoffer.com" { type master; notify no; file "null.zone.file"; };
 zone "franklybundlecarver.com" { type master; notify no; file "null.zone.file"; };
 zone "free-banners.com" { type master; notify no; file "null.zone.file"; };
 zone "free-counter.co.uk" { type master; notify no; file "null.zone.file"; };
-zone "free-counters.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "freebanner.com" { type master; notify no; file "null.zone.file"; };
 zone "freecounterstat.com" { type master; notify no; file "null.zone.file"; };
 zone "freelogs.com" { type master; notify no; file "null.zone.file"; };
@@ -1961,7 +1959,6 @@ zone "hilltopads.net" { type master; notify no; file "null.zone.file"; };
 zone "histats.com" { type master; notify no; file "null.zone.file"; };
 zone "historicalrequest.com" { type master; notify no; file "null.zone.file"; };
 zone "hit-parade.com" { type master; notify no; file "null.zone.file"; };
-zone "hit.bg" { type master; notify no; file "null.zone.file"; };
 zone "hit.ua" { type master; notify no; file "null.zone.file"; };
 zone "hit.webcentre.lycos.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "hitbox.com" { type master; notify no; file "null.zone.file"; };
@@ -2995,6 +2992,7 @@ zone "shareasale.com" { type master; notify no; file "null.zone.file"; };
 zone "sharethrough.com" { type master; notify no; file "null.zone.file"; };
 zone "sharppatch.com" { type master; notify no; file "null.zone.file"; };
 zone "sher.index.hu" { type master; notify no; file "null.zone.file"; };
+zone "shermore.info" { type master; notify no; file "null.zone.file"; };
 zone "shinystat.com" { type master; notify no; file "null.zone.file"; };
 zone "shinystat.it" { type master; notify no; file "null.zone.file"; };
 zone "shockinggrass.com" { type master; notify no; file "null.zone.file"; };
@@ -3223,6 +3221,7 @@ zone "takethatad.com" { type master; notify no; file "null.zone.file"; };
 zone "takru.com" { type master; notify no; file "null.zone.file"; };
 zone "talentedsteel.com" { type master; notify no; file "null.zone.file"; };
 zone "tamgrt.com" { type master; notify no; file "null.zone.file"; };
+zone "tangerinenet.biz" { type master; notify no; file "null.zone.file"; };
 zone "tangibleteam.com" { type master; notify no; file "null.zone.file"; };
 zone "tapad.com" { type master; notify no; file "null.zone.file"; };
 zone "tapfiliate.com" { type master; notify no; file "null.zone.file"; };
@@ -3601,7 +3600,6 @@ zone "win.iqm.com" { type master; notify no; file "null.zone.file"; };
 zone "window.nixnet.cz" { type master; notify no; file "null.zone.file"; };
 zone "wintricksbanner.googlepages.com" { type master; notify no; file "null.zone.file"; };
 zone "wirecomic.com" { type master; notify no; file "null.zone.file"; };
-zone "wirelesseuropebalmy.com" { type master; notify no; file "null.zone.file"; };
 zone "wisepops.com" { type master; notify no; file "null.zone.file"; };
 zone "witch-counter.de" { type master; notify no; file "null.zone.file"; };
 zone "wizaly.com" { type master; notify no; file "null.zone.file"; };
