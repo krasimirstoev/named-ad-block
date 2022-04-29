@@ -1,8 +1,8 @@
-#last update: Fri Apr 29 15:45:01 EEST 2022
+#last update: Fri Apr 29 16:00:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Mon, 25 Apr 2022 12:42:13 GMT
-// entries:         3677
+// entries:         3676
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1476,7 +1476,6 @@ zone "converge-digital.com" { type master; notify no; file "null.zone.file"; };
 zone "conversantmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "conversionbet.com" { type master; notify no; file "null.zone.file"; };
 zone "conversionruler.com" { type master; notify no; file "null.zone.file"; };
-zone "convertbox.com" { type master; notify no; file "null.zone.file"; };
 zone "convertingtraffic.com" { type master; notify no; file "null.zone.file"; };
 zone "convrse.media" { type master; notify no; file "null.zone.file"; };
 zone "cookies.cmpnet.com" { type master; notify no; file "null.zone.file"; };
