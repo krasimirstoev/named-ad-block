@@ -1,8 +1,8 @@
-#last update: Tue May  3 21:00:02 EEST 2022
+#last update: Tue May  3 21:15:01 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Tue, 03 May 2022 12:42:26 GMT
-// entries:         3677
+// last updated:    Tue, 03 May 2022 17:55:07 GMT
+// entries:         3678
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -2084,6 +2084,7 @@ zone "intelligenceadx.com" { type master; notify no; file "null.zone.file"; };
 zone "intellitxt.com" { type master; notify no; file "null.zone.file"; };
 zone "intentsify.io" { type master; notify no; file "null.zone.file"; };
 zone "interactive.forthnet.gr" { type master; notify no; file "null.zone.file"; };
+zone "intercom-clicks.com" { type master; notify no; file "null.zone.file"; };
 zone "intergi.com" { type master; notify no; file "null.zone.file"; };
 zone "internetfuel.com" { type master; notify no; file "null.zone.file"; };
 zone "interreklame.de" { type master; notify no; file "null.zone.file"; };
