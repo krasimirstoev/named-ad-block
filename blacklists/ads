@@ -1,8 +1,8 @@
-#last update: Wed May  4 13:15:01 EEST 2022
+#last update: Wed May  4 13:30:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Tue, 03 May 2022 17:55:07 GMT
-// entries:         3678
+// last updated:    Wed, 04 May 2022 09:17:12 GMT
+// entries:         3679
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1683,6 +1683,7 @@ zone "em1.yoursantander.co.uk" { type master; notify no; file "null.zone.file"; 
 zone "email-clk.adguard.com" { type master; notify no; file "null.zone.file"; };
 zone "email-opn.adguard.com" { type master; notify no; file "null.zone.file"; };
 zone "email.m1.bktrksmail.com" { type master; notify no; file "null.zone.file"; };
+zone "emaillinks.soundiiz.com" { type master; notify no; file "null.zone.file"; };
 zone "emanog.com" { type master; notify no; file "null.zone.file"; };
 zone "emebo.com" { type master; notify no; file "null.zone.file"; };
 zone "emebo.io" { type master; notify no; file "null.zone.file"; };
