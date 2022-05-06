@@ -1,4 +1,4 @@
-#last update: Fri May  6 14:00:02 EEST 2022
+#last update: Fri May  6 14:15:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Wed, 04 May 2022 09:17:12 GMT
@@ -9,6 +9,7 @@
 // other formats:   https://pgl.yoyo.org/adservers/formats.php
 // policy:          https://pgl.yoyo.org/adservers/policy.php
 
+zone "1-1ads.com" { type master; notify no; file "null.zone.file"; };
 zone "101com.com" { type master; notify no; file "null.zone.file"; };
 zone "101order.com" { type master; notify no; file "null.zone.file"; };
 zone "123freeavatars.com" { type master; notify no; file "null.zone.file"; };
@@ -657,7 +658,6 @@ zone "ads.tripod.lycos.co.uk" { type master; notify no; file "null.zone.file"; }
 zone "ads.tripod.lycos.de" { type master; notify no; file "null.zone.file"; };
 zone "ads.tripod.lycos.es" { type master; notify no; file "null.zone.file"; };
 zone "ads.tripod.lycos.it" { type master; notify no; file "null.zone.file"; };
-zone "ads.tripod.lycos.nl" { type master; notify no; file "null.zone.file"; };
 zone "ads.tso.dennisnet.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "ads.twitter.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.twojatv.info" { type master; notify no; file "null.zone.file"; };
