@@ -1,8 +1,8 @@
-#last update: Fri May  6 15:00:02 EEST 2022
+#last update: Fri May  6 15:15:01 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Wed, 04 May 2022 09:17:12 GMT
-// entries:         3679
+// entries:         3676
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1025,6 +1025,7 @@ zone "analytics.swiggy.com" { type master; notify no; file "null.zone.file"; };
 zone "analytics.xelondigital.com" { type master; notify no; file "null.zone.file"; };
 zone "analytics.yahoo.com" { type master; notify no; file "null.zone.file"; };
 zone "analyticsapi.happypancake.net" { type master; notify no; file "null.zone.file"; };
+zone "analytik.xyz" { type master; notify no; file "null.zone.file"; };
 zone "ancientact.com" { type master; notify no; file "null.zone.file"; };
 zone "aniview.com" { type master; notify no; file "null.zone.file"; };
 zone "annonser.dagbladet.no" { type master; notify no; file "null.zone.file"; };
@@ -2243,9 +2244,6 @@ zone "logs.spilgames.com" { type master; notify no; file "null.zone.file"; };
 zone "logsss.com" { type master; notify no; file "null.zone.file"; };
 zone "logua.com" { type master; notify no; file "null.zone.file"; };
 zone "longinglettuce.com" { type master; notify no; file "null.zone.file"; };
-zone "look.djfiln.com" { type master; notify no; file "null.zone.file"; };
-zone "look.ichlnk.com" { type master; notify no; file "null.zone.file"; };
-zone "look.opskln.com" { type master; notify no; file "null.zone.file"; };
 zone "look.ufinkln.com" { type master; notify no; file "null.zone.file"; };
 zone "loopme.com" { type master; notify no; file "null.zone.file"; };
 zone "lop.com" { type master; notify no; file "null.zone.file"; };
@@ -2949,6 +2947,7 @@ zone "scorecardresearch.com" { type master; notify no; file "null.zone.file"; };
 zone "scratch2cash.com" { type master; notify no; file "null.zone.file"; };
 zone "screechingfurniture.com" { type master; notify no; file "null.zone.file"; };
 zone "screechingstove.com" { type master; notify no; file "null.zone.file"; };
+zone "scripte-monster.de" { type master; notify no; file "null.zone.file"; };
 zone "scrubswim.com" { type master; notify no; file "null.zone.file"; };
 zone "sdkfjxjertertry.com" { type master; notify no; file "null.zone.file"; };
 zone "seadform.net" { type master; notify no; file "null.zone.file"; };
@@ -2985,7 +2984,6 @@ zone "sexinyourcity.com" { type master; notify no; file "null.zone.file"; };
 zone "sexlist.com" { type master; notify no; file "null.zone.file"; };
 zone "sextracker.com" { type master; notify no; file "null.zone.file"; };
 zone "shakegoldfish.com" { type master; notify no; file "null.zone.file"; };
-zone "shakesea.com" { type master; notify no; file "null.zone.file"; };
 zone "shakesuggestion.com" { type master; notify no; file "null.zone.file"; };
 zone "shakytaste.com" { type master; notify no; file "null.zone.file"; };
 zone "shallowsmile.com" { type master; notify no; file "null.zone.file"; };
@@ -3457,7 +3455,6 @@ zone "tyroo.com" { type master; notify no; file "null.zone.file"; };
 zone "uarating.com" { type master; notify no; file "null.zone.file"; };
 zone "ucfunnel.com" { type master; notify no; file "null.zone.file"; };
 zone "udkcrj.com" { type master; notify no; file "null.zone.file"; };
-zone "udncoeln.com" { type master; notify no; file "null.zone.file"; };
 zone "uib.ff.avast.com" { type master; notify no; file "null.zone.file"; };
 zone "ukoffzeh.com" { type master; notify no; file "null.zone.file"; };
 zone "ultimateclixx.com" { type master; notify no; file "null.zone.file"; };
