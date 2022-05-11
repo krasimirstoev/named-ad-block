@@ -1,8 +1,8 @@
-#last update: Wed May 11 18:00:02 EEST 2022
+#last update: Wed May 11 18:15:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Wed, 04 May 2022 09:17:12 GMT
-// entries:         3676
+// last updated:    Wed, 11 May 2022 14:29:23 GMT
+// entries:         3677
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -3198,6 +3198,7 @@ zone "swordfishdc.com" { type master; notify no; file "null.zone.file"; };
 zone "swordgoose.com" { type master; notify no; file "null.zone.file"; };
 zone "t.appsflyer.com" { type master; notify no; file "null.zone.file"; };
 zone "t.bawafx.com" { type master; notify no; file "null.zone.file"; };
+zone "t.co" { type master; notify no; file "null.zone.file"; };
 zone "t.eloqua.com" { type master; notify no; file "null.zone.file"; };
 zone "t.en25.com" { type master; notify no; file "null.zone.file"; };
 zone "t.firstpromoter.com" { type master; notify no; file "null.zone.file"; };
