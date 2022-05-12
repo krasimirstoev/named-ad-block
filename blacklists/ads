@@ -1,8 +1,8 @@
-#last update: Thu May 12 13:45:02 EEST 2022
+#last update: Thu May 12 14:00:07 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Wed, 11 May 2022 14:29:23 GMT
-// entries:         3677
+// entries:         3676
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1536,7 +1536,6 @@ zone "crtv.mate1.com" { type master; notify no; file "null.zone.file"; };
 zone "crwdcntrl.net" { type master; notify no; file "null.zone.file"; };
 zone "crypto-loot.org" { type master; notify no; file "null.zone.file"; };
 zone "ctnetwork.hu" { type master; notify no; file "null.zone.file"; };
-zone "cubics.com" { type master; notify no; file "null.zone.file"; };
 zone "culturedcrayon.com" { type master; notify no; file "null.zone.file"; };
 zone "cumbersomecloud.com" { type master; notify no; file "null.zone.file"; };
 zone "curtaincows.com" { type master; notify no; file "null.zone.file"; };
