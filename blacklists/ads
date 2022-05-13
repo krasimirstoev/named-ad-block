@@ -1,8 +1,8 @@
-#last update: Fri May 13 14:00:02 EEST 2022
+#last update: Fri May 13 14:15:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Wed, 11 May 2022 14:29:23 GMT
-// entries:         3676
+// entries:         3673
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -438,7 +438,6 @@ zone "ads.creative-serving.com" { type master; notify no; file "null.zone.file";
 zone "ads.cybersales.cz" { type master; notify no; file "null.zone.file"; };
 zone "ads.dada.it" { type master; notify no; file "null.zone.file"; };
 zone "ads.dailycamera.com" { type master; notify no; file "null.zone.file"; };
-zone "ads.datingyes.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.delfin.bg" { type master; notify no; file "null.zone.file"; };
 zone "ads.deltha.hu" { type master; notify no; file "null.zone.file"; };
 zone "ads.dennisnet.co.uk" { type master; notify no; file "null.zone.file"; };
@@ -658,6 +657,7 @@ zone "ads.tripod.lycos.co.uk" { type master; notify no; file "null.zone.file"; }
 zone "ads.tripod.lycos.de" { type master; notify no; file "null.zone.file"; };
 zone "ads.tripod.lycos.es" { type master; notify no; file "null.zone.file"; };
 zone "ads.tripod.lycos.it" { type master; notify no; file "null.zone.file"; };
+zone "ads.tripod.lycos.nl" { type master; notify no; file "null.zone.file"; };
 zone "ads.tso.dennisnet.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "ads.twitter.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.twojatv.info" { type master; notify no; file "null.zone.file"; };
@@ -1829,7 +1829,6 @@ zone "fpctraffic2.com" { type master; notify no; file "null.zone.file"; };
 zone "fpjs.io" { type master; notify no; file "null.zone.file"; };
 zone "fqtag.com" { type master; notify no; file "null.zone.file"; };
 zone "frailoffer.com" { type master; notify no; file "null.zone.file"; };
-zone "franklybundlecarver.com" { type master; notify no; file "null.zone.file"; };
 zone "free-banners.com" { type master; notify no; file "null.zone.file"; };
 zone "free-counter.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "freebanner.com" { type master; notify no; file "null.zone.file"; };
@@ -1999,7 +1998,6 @@ zone "hubadnetwork.com" { type master; notify no; file "null.zone.file"; };
 zone "hueads.com" { type master; notify no; file "null.zone.file"; };
 zone "hueadsortb.com" { type master; notify no; file "null.zone.file"; };
 zone "hueadsxml.com" { type master; notify no; file "null.zone.file"; };
-zone "huezzcjskf.site" { type master; notify no; file "null.zone.file"; };
 zone "hurricanedigitalmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "hurtteeth.com" { type master; notify no; file "null.zone.file"; };
 zone "hydramedia.com" { type master; notify no; file "null.zone.file"; };
@@ -3533,7 +3531,6 @@ zone "voicevegetable.com" { type master; notify no; file "null.zone.file"; };
 zone "voluum.com" { type master; notify no; file "null.zone.file"; };
 zone "voluumtrk2.com" { type master; notify no; file "null.zone.file"; };
 zone "volvelle.tech" { type master; notify no; file "null.zone.file"; };
-zone "voodoo-ads.io" { type master; notify no; file "null.zone.file"; };
 zone "vpon.com" { type master; notify no; file "null.zone.file"; };
 zone "vrs.cz" { type master; notify no; file "null.zone.file"; };
 zone "vs.tucows.com" { type master; notify no; file "null.zone.file"; };
