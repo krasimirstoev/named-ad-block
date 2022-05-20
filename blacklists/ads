@@ -1,8 +1,8 @@
-#last update: Fri May 20 14:00:06 EEST 2022
+#last update: Fri May 20 14:15:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Mon, 16 May 2022 10:32:06 GMT
-// entries:         3673
+// entries:         3671
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1439,7 +1439,6 @@ zone "clustrmaps.com" { type master; notify no; file "null.zone.file"; };
 zone "cmp.dmgmediaprivacy.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "cmvrclicks000.com" { type master; notify no; file "null.zone.file"; };
 zone "cnomy.com" { type master; notify no; file "null.zone.file"; };
-zone "cnt.spbland.ru" { type master; notify no; file "null.zone.file"; };
 zone "cnt1.pocitadlo.cz" { type master; notify no; file "null.zone.file"; };
 zone "cny.yoyo.org" { type master; notify no; file "null.zone.file"; };
 zone "codeadnetwork.com" { type master; notify no; file "null.zone.file"; };
@@ -1686,7 +1685,6 @@ zone "email-opn.adguard.com" { type master; notify no; file "null.zone.file"; };
 zone "email.m1.bktrksmail.com" { type master; notify no; file "null.zone.file"; };
 zone "emaillinks.soundiiz.com" { type master; notify no; file "null.zone.file"; };
 zone "emanog.com" { type master; notify no; file "null.zone.file"; };
-zone "emebo.com" { type master; notify no; file "null.zone.file"; };
 zone "emebo.io" { type master; notify no; file "null.zone.file"; };
 zone "emerse.com" { type master; notify no; file "null.zone.file"; };
 zone "emetriq.de" { type master; notify no; file "null.zone.file"; };
@@ -1929,6 +1927,7 @@ zone "h-bid.com" { type master; notify no; file "null.zone.file"; };
 zone "h0.t.hubspotemail.net" { type master; notify no; file "null.zone.file"; };
 zone "h78xb.pw" { type master; notify no; file "null.zone.file"; };
 zone "habitualhumor.com" { type master; notify no; file "null.zone.file"; };
+zone "hadskiz.com" { type master; notify no; file "null.zone.file"; };
 zone "haltingbadge.com" { type master; notify no; file "null.zone.file"; };
 zone "hammerhearing.com" { type master; notify no; file "null.zone.file"; };
 zone "handyfield.com" { type master; notify no; file "null.zone.file"; };
@@ -2834,7 +2833,6 @@ zone "receptiveink.com" { type master; notify no; file "null.zone.file"; };
 zone "receptivereaction.com" { type master; notify no; file "null.zone.file"; };
 zone "recoco.it" { type master; notify no; file "null.zone.file"; };
 zone "reconditerake.com" { type master; notify no; file "null.zone.file"; };
-zone "record.affiliates.karjalakasino.com" { type master; notify no; file "null.zone.file"; };
 zone "record.bonniergaming.com" { type master; notify no; file "null.zone.file"; };
 zone "record.mrwin.com" { type master; notify no; file "null.zone.file"; };
 zone "redirectingat.com" { type master; notify no; file "null.zone.file"; };
@@ -2873,6 +2871,7 @@ zone "revive.netriota.hu" { type master; notify no; file "null.zone.file"; };
 zone "revive.plays.bg" { type master; notify no; file "null.zone.file"; };
 zone "revlift.io" { type master; notify no; file "null.zone.file"; };
 zone "revprotect.com" { type master; notify no; file "null.zone.file"; };
+zone "revsci.net" { type master; notify no; file "null.zone.file"; };
 zone "revstats.com" { type master; notify no; file "null.zone.file"; };
 zone "reyden-x.com" { type master; notify no; file "null.zone.file"; };
 zone "rhombusads.com" { type master; notify no; file "null.zone.file"; };
@@ -3160,7 +3159,6 @@ zone "stormyachiever.com" { type master; notify no; file "null.zone.file"; };
 zone "storygize.net" { type master; notify no; file "null.zone.file"; };
 zone "stoveseashore.com" { type master; notify no; file "null.zone.file"; };
 zone "straightnest.com" { type master; notify no; file "null.zone.file"; };
-zone "stream.useriq.com" { type master; notify no; file "null.zone.file"; };
 zone "stripedburst.com" { type master; notify no; file "null.zone.file"; };
 zone "strivesidewalk.com" { type master; notify no; file "null.zone.file"; };
 zone "structurerod.com" { type master; notify no; file "null.zone.file"; };
