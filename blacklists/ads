@@ -1,8 +1,8 @@
-#last update: Sun May 29 00:30:02 EEST 2022
+#last update: Sun May 29 00:45:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Mon, 16 May 2022 10:32:06 GMT
-// entries:         3668
+// last updated:    Sat, 28 May 2022 21:24:27 GMT
+// entries:         3669
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -2721,6 +2721,7 @@ zone "proton-tm.com" { type master; notify no; file "null.zone.file"; };
 zone "protraffic.com" { type master; notify no; file "null.zone.file"; };
 zone "provenpixel.com" { type master; notify no; file "null.zone.file"; };
 zone "provexia.com" { type master; notify no; file "null.zone.file"; };
+zone "prpops.com" { type master; notify no; file "null.zone.file"; };
 zone "prsaln.com" { type master; notify no; file "null.zone.file"; };
 zone "prsitecheck.com" { type master; notify no; file "null.zone.file"; };
 zone "prudencewiserelapse.com" { type master; notify no; file "null.zone.file"; };
