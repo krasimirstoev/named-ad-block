@@ -1,8 +1,8 @@
-#last update: Tue May 31 02:00:02 EEST 2022
+#last update: Tue May 31 02:15:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Sat, 28 May 2022 21:24:27 GMT
-// entries:         3669
+// last updated:    Mon, 30 May 2022 22:35:03 GMT
+// entries:         3670
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -3434,6 +3434,7 @@ zone "truehits.net" { type master; notify no; file "null.zone.file"; };
 zone "truehits1.gits.net.th" { type master; notify no; file "null.zone.file"; };
 zone "truehits2.gits.net.th" { type master; notify no; file "null.zone.file"; };
 zone "trust.titanhq.com" { type master; notify no; file "null.zone.file"; };
+zone "trustpid.com" { type master; notify no; file "null.zone.file"; };
 zone "trustx.org" { type master; notify no; file "null.zone.file"; };
 zone "tsuam.com" { type master; notify no; file "null.zone.file"; };
 zone "tsyndicate.com" { type master; notify no; file "null.zone.file"; };
