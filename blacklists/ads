@@ -1,8 +1,8 @@
-#last update: Mon Jun  6 20:45:01 EEST 2022
+#last update: Mon Jun  6 21:00:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Mon, 30 May 2022 22:35:03 GMT
-// entries:         3638
+// last updated:    Mon, 06 Jun 2022 16:48:04 GMT
+// entries:         3639
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1377,6 +1377,7 @@ zone "click.email.bbc.com" { type master; notify no; file "null.zone.file"; };
 zone "click.email.sonos.com" { type master; notify no; file "null.zone.file"; };
 zone "click.fool.com" { type master; notify no; file "null.zone.file"; };
 zone "click.hookupinyourcity.com" { type master; notify no; file "null.zone.file"; };
+zone "click.hooligapps.com" { type master; notify no; file "null.zone.file"; };
 zone "click.kmindex.ru" { type master; notify no; file "null.zone.file"; };
 zone "click.redditmail.com" { type master; notify no; file "null.zone.file"; };
 zone "click.twcwigs.com" { type master; notify no; file "null.zone.file"; };
