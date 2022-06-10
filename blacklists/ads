@@ -1,8 +1,8 @@
-#last update: Fri Jun 10 19:00:02 EEST 2022
+#last update: Fri Jun 10 19:15:01 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Mon, 06 Jun 2022 16:48:04 GMT
-// entries:         3641
+// last updated:    Fri, 10 Jun 2022 15:29:37 GMT
+// entries:         3642
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1802,6 +1802,7 @@ zone "flexbanner.com" { type master; notify no; file "null.zone.file"; };
 zone "flimsycircle.com" { type master; notify no; file "null.zone.file"; };
 zone "flimsythought.com" { type master; notify no; file "null.zone.file"; };
 zone "floodprincipal.com" { type master; notify no; file "null.zone.file"; };
+zone "floweryflavor.com" { type master; notify no; file "null.zone.file"; };
 zone "flowgo.com" { type master; notify no; file "null.zone.file"; };
 zone "flurry.com" { type master; notify no; file "null.zone.file"; };
 zone "fly-analytics.com" { type master; notify no; file "null.zone.file"; };
