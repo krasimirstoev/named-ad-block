@@ -1,8 +1,8 @@
-#last update: Sat Jun 11 17:15:01 EEST 2022
+#last update: Sat Jun 11 17:30:01 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Fri, 10 Jun 2022 15:29:37 GMT
-// entries:         3642
+// last updated:    Sat, 11 Jun 2022 13:35:26 GMT
+// entries:         3644
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -985,6 +985,7 @@ zone "alphonso.tv" { type master; notify no; file "null.zone.file"; };
 zone "als-svc.nytimes.com" { type master; notify no; file "null.zone.file"; };
 zone "amazingcounters.com" { type master; notify no; file "null.zone.file"; };
 zone "amazon-adsystem.com" { type master; notify no; file "null.zone.file"; };
+zone "amazonaax.com" { type master; notify no; file "null.zone.file"; };
 zone "ambiguousquilt.com" { type master; notify no; file "null.zone.file"; };
 zone "ambitiousagreement.com" { type master; notify no; file "null.zone.file"; };
 zone "americash.com" { type master; notify no; file "null.zone.file"; };
@@ -3449,6 +3450,7 @@ zone "us.a1.yimg.com" { type master; notify no; file "null.zone.file"; };
 zone "user-shield-check.com" { type master; notify no; file "null.zone.file"; };
 zone "userreplay.com" { type master; notify no; file "null.zone.file"; };
 zone "userreplay.net" { type master; notify no; file "null.zone.file"; };
+zone "users.maxcluster.net" { type master; notify no; file "null.zone.file"; };
 zone "usingirritatecordial.com" { type master; notify no; file "null.zone.file"; };
 zone "utils.mediageneral.net" { type master; notify no; file "null.zone.file"; };
 zone "utl-1.com" { type master; notify no; file "null.zone.file"; };
