@@ -1,8 +1,8 @@
-#last update: Thu Jun 16 12:00:02 EEST 2022
+#last update: Thu Jun 16 12:15:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Tue, 14 Jun 2022 16:15:45 GMT
-// entries:         3645
+// last updated:    Thu, 16 Jun 2022 08:46:24 GMT
+// entries:         3646
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1357,6 +1357,7 @@ zone "cheerfulrange.com" { type master; notify no; file "null.zone.file"; };
 zone "cherriescare.com" { type master; notify no; file "null.zone.file"; };
 zone "chewcoat.com" { type master; notify no; file "null.zone.file"; };
 zone "chickensstation.com" { type master; notify no; file "null.zone.file"; };
+zone "childlikecrowd.com" { type master; notify no; file "null.zone.file"; };
 zone "chinsnakes.com" { type master; notify no; file "null.zone.file"; };
 zone "chitika.net" { type master; notify no; file "null.zone.file"; };
 zone "citrusad.net" { type master; notify no; file "null.zone.file"; };
