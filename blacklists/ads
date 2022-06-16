@@ -1,8 +1,8 @@
-#last update: Thu Jun 16 16:30:02 EEST 2022
+#last update: Thu Jun 16 16:45:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Thu, 16 Jun 2022 08:46:24 GMT
-// entries:         3646
+// last updated:    Thu, 16 Jun 2022 13:16:34 GMT
+// entries:         3648
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1661,6 +1661,7 @@ zone "eclkspbn.com" { type master; notify no; file "null.zone.file"; };
 zone "economicpizzas.com" { type master; notify no; file "null.zone.file"; };
 zone "ecoupons.com" { type master; notify no; file "null.zone.file"; };
 zone "edaa.eu" { type master; notify no; file "null.zone.file"; };
+zone "edgexads.com" { type master; notify no; file "null.zone.file"; };
 zone "educationdynamics.com" { type master; notify no; file "null.zone.file"; };
 zone "effectivemeasure.com" { type master; notify no; file "null.zone.file"; };
 zone "effectivemeasure.net" { type master; notify no; file "null.zone.file"; };
@@ -1675,6 +1676,7 @@ zone "elitedollars.com" { type master; notify no; file "null.zone.file"; };
 zone "elitetoplist.com" { type master; notify no; file "null.zone.file"; };
 zone "em1.yoursantander.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "email-clk.adguard.com" { type master; notify no; file "null.zone.file"; };
+zone "email-links.crowdfireapp.com" { type master; notify no; file "null.zone.file"; };
 zone "email-opn.adguard.com" { type master; notify no; file "null.zone.file"; };
 zone "email.m1.bktrksmail.com" { type master; notify no; file "null.zone.file"; };
 zone "emaillinks.soundiiz.com" { type master; notify no; file "null.zone.file"; };
