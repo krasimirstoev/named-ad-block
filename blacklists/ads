@@ -1,8 +1,8 @@
-#last update: Fri Jun 17 14:15:01 EEST 2022
+#last update: Fri Jun 17 14:30:01 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Thu, 16 Jun 2022 13:16:34 GMT
-// entries:         3648
+// entries:         3647
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1142,6 +1142,7 @@ zone "bannerconnect.com" { type master; notify no; file "null.zone.file"; };
 zone "bannerconnect.net" { type master; notify no; file "null.zone.file"; };
 zone "bannergrabber.internet.gr" { type master; notify no; file "null.zone.file"; };
 zone "bannerimage.com" { type master; notify no; file "null.zone.file"; };
+zone "bannerlandia.com.ar" { type master; notify no; file "null.zone.file"; };
 zone "bannermall.com" { type master; notify no; file "null.zone.file"; };
 zone "bannermanager.bnr.bg" { type master; notify no; file "null.zone.file"; };
 zone "bannermarkt.nl" { type master; notify no; file "null.zone.file"; };
@@ -1324,7 +1325,6 @@ zone "cashengines.com" { type master; notify no; file "null.zone.file"; };
 zone "cashfiesta.com" { type master; notify no; file "null.zone.file"; };
 zone "cashpartner.com" { type master; notify no; file "null.zone.file"; };
 zone "cashstaging.me" { type master; notify no; file "null.zone.file"; };
-zone "casinopays.com" { type master; notify no; file "null.zone.file"; };
 zone "casinorewards.com" { type master; notify no; file "null.zone.file"; };
 zone "casinotraffic.com" { type master; notify no; file "null.zone.file"; };
 zone "causecherry.com" { type master; notify no; file "null.zone.file"; };
@@ -1631,6 +1631,7 @@ zone "doubleverify.com" { type master; notify no; file "null.zone.file"; };
 zone "doubtfulrainstorm.com" { type master; notify no; file "null.zone.file"; };
 zone "downloadr.xyz" { type master; notify no; file "null.zone.file"; };
 zone "dpbolvw.net" { type master; notify no; file "null.zone.file"; };
+zone "dpgawov.com" { type master; notify no; file "null.zone.file"; };
 zone "dpu.samsungelectronics.com" { type master; notify no; file "null.zone.file"; };
 zone "dq95d35.com" { type master; notify no; file "null.zone.file"; };
 zone "drabsize.com" { type master; notify no; file "null.zone.file"; };
@@ -1854,7 +1855,6 @@ zone "fwcdn1.com" { type master; notify no; file "null.zone.file"; };
 zone "fwcdn2.com" { type master; notify no; file "null.zone.file"; };
 zone "fxstyle.net" { type master; notify no; file "null.zone.file"; };
 zone "ga.clearbit.com" { type master; notify no; file "null.zone.file"; };
-zone "ga87z2o.com" { type master; notify no; file "null.zone.file"; };
 zone "gadsbee.com" { type master; notify no; file "null.zone.file"; };
 zone "galaxien.com" { type master; notify no; file "null.zone.file"; };
 zone "game-advertising-online.com" { type master; notify no; file "null.zone.file"; };
@@ -2015,6 +2015,7 @@ zone "idtargeting.com" { type master; notify no; file "null.zone.file"; };
 zone "ientrymail.com" { type master; notify no; file "null.zone.file"; };
 zone "iesnare.com" { type master; notify no; file "null.zone.file"; };
 zone "ifa.tube8live.com" { type master; notify no; file "null.zone.file"; };
+zone "ihogaetw.com" { type master; notify no; file "null.zone.file"; };
 zone "ilbanner.com" { type master; notify no; file "null.zone.file"; };
 zone "ilead.itrack.it" { type master; notify no; file "null.zone.file"; };
 zone "illfatedsnail.com" { type master; notify no; file "null.zone.file"; };
@@ -2532,7 +2533,6 @@ zone "openad.travelnow.com" { type master; notify no; file "null.zone.file"; };
 zone "openads.friendfinder.com" { type master; notify no; file "null.zone.file"; };
 zone "openads.org" { type master; notify no; file "null.zone.file"; };
 zone "openadsnetwork.com" { type master; notify no; file "null.zone.file"; };
-zone "opentag-stats.qubit.com" { type master; notify no; file "null.zone.file"; };
 zone "openx.angelsgroup.org.uk" { type master; notify no; file "null.zone.file"; };
 zone "openx.cairo360.com" { type master; notify no; file "null.zone.file"; };
 zone "openx.kgmedia.eu" { type master; notify no; file "null.zone.file"; };
@@ -3341,7 +3341,6 @@ zone "tracking.5-47737-bi.co.uk" { type master; notify no; file "null.zone.file"
 zone "tracking.emilyclarkconsulting.com" { type master; notify no; file "null.zone.file"; };
 zone "tracking.epicgames.com" { type master; notify no; file "null.zone.file"; };
 zone "tracking.exipure.com" { type master; notify no; file "null.zone.file"; };
-zone "tracking.gajmp.com" { type master; notify no; file "null.zone.file"; };
 zone "tracking.hyros.com" { type master; notify no; file "null.zone.file"; };
 zone "tracking.ibxlink.com" { type master; notify no; file "null.zone.file"; };
 zone "tracking.internetstores.de" { type master; notify no; file "null.zone.file"; };
