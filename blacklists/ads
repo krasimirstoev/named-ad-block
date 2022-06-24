@@ -1,8 +1,8 @@
-#last update: Fri Jun 24 14:00:02 EEST 2022
+#last update: Fri Jun 24 14:15:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Thu, 16 Jun 2022 13:16:34 GMT
-// entries:         3647
+// entries:         3644
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -153,7 +153,6 @@ zone "ad.nettvservices.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.nozonedata.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.nttnavi.co.jp" { type master; notify no; file "null.zone.file"; };
 zone "ad.nwt.cz" { type master; notify no; file "null.zone.file"; };
-zone "ad.pandora.tv" { type master; notify no; file "null.zone.file"; };
 zone "ad.period-calendar.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.preferances.com" { type master; notify no; file "null.zone.file"; };
 zone "ad.profiwin.de" { type master; notify no; file "null.zone.file"; };
@@ -377,7 +376,6 @@ zone "ads.aceweb.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.acpc.cat" { type master; notify no; file "null.zone.file"; };
 zone "ads.acrosspf.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.activestate.com" { type master; notify no; file "null.zone.file"; };
-zone "ads.ad-center.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.adfox.ru" { type master; notify no; file "null.zone.file"; };
 zone "ads.administrator.de" { type master; notify no; file "null.zone.file"; };
 zone "ads.adred.de" { type master; notify no; file "null.zone.file"; };
@@ -644,7 +642,6 @@ zone "ads.tiktok.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.tmcs.net" { type master; notify no; file "null.zone.file"; };
 zone "ads.todoti.com.br" { type master; notify no; file "null.zone.file"; };
 zone "ads.toplayaffiliates.com" { type master; notify no; file "null.zone.file"; };
-zone "ads.totallyfreestuff.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.townhall.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.travelaudience.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.trinitymirror.co.uk" { type master; notify no; file "null.zone.file"; };
