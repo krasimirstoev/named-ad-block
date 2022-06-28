@@ -1,8 +1,8 @@
-#last update: Tue Jun 28 11:00:07 EEST 2022
+#last update: Tue Jun 28 11:15:01 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Thu, 16 Jun 2022 13:16:34 GMT
-// entries:         3644
+// last updated:    Tue, 28 Jun 2022 07:22:28 GMT
+// entries:         3651
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1371,6 +1371,7 @@ zone "click.airmalta-mail.com" { type master; notify no; file "null.zone.file"; 
 zone "click.bkdpt.com" { type master; notify no; file "null.zone.file"; };
 zone "click.cartsguru.io" { type master; notify no; file "null.zone.file"; };
 zone "click.cision.com" { type master; notify no; file "null.zone.file"; };
+zone "click.classmates.com" { type master; notify no; file "null.zone.file"; };
 zone "click.e.progressive.com" { type master; notify no; file "null.zone.file"; };
 zone "click.em.blizzard.com" { type master; notify no; file "null.zone.file"; };
 zone "click.email.bbc.com" { type master; notify no; file "null.zone.file"; };
@@ -3170,16 +3171,19 @@ zone "swimslope.com" { type master; notify no; file "null.zone.file"; };
 zone "swordfishdc.com" { type master; notify no; file "null.zone.file"; };
 zone "swordgoose.com" { type master; notify no; file "null.zone.file"; };
 zone "t.appsflyer.com" { type master; notify no; file "null.zone.file"; };
+zone "t.armchairbookie.com" { type master; notify no; file "null.zone.file"; };
 zone "t.bawafx.com" { type master; notify no; file "null.zone.file"; };
 zone "t.carta.com" { type master; notify no; file "null.zone.file"; };
 zone "t.co" { type master; notify no; file "null.zone.file"; };
 zone "t.eloqua.com" { type master; notify no; file "null.zone.file"; };
+zone "t.email.superdrug.com" { type master; notify no; file "null.zone.file"; };
 zone "t.en25.com" { type master; notify no; file "null.zone.file"; };
 zone "t.firstpromoter.com" { type master; notify no; file "null.zone.file"; };
 zone "t.insigit.com" { type master; notify no; file "null.zone.file"; };
 zone "t.irtyd.com" { type master; notify no; file "null.zone.file"; };
 zone "t.leady.com" { type master; notify no; file "null.zone.file"; };
 zone "t.news.browns-restaurants.co.uk" { type master; notify no; file "null.zone.file"; };
+zone "t.notif-colissimo-laposte.info" { type master; notify no; file "null.zone.file"; };
 zone "t.salesmatemail.com" { type master; notify no; file "null.zone.file"; };
 zone "t.vacations.disneydestinations.com" { type master; notify no; file "null.zone.file"; };
 zone "t.visit.disneydestinations.com" { type master; notify no; file "null.zone.file"; };
@@ -3307,10 +3311,12 @@ zone "track.flexlinks.com" { type master; notify no; file "null.zone.file"; };
 zone "track.flexlinkspro.com" { type master; notify no; file "null.zone.file"; };
 zone "track.freemmo2017.com" { type master; notify no; file "null.zone.file"; };
 zone "track.game18click.com" { type master; notify no; file "null.zone.file"; };
+zone "track.homejobs.careers" { type master; notify no; file "null.zone.file"; };
 zone "track.lettingaproperty.com" { type master; notify no; file "null.zone.file"; };
 zone "track.mailalert.io" { type master; notify no; file "null.zone.file"; };
 zone "track.mailerlite.com" { type master; notify no; file "null.zone.file"; };
 zone "track.miro.com" { type master; notify no; file "null.zone.file"; };
+zone "track.nationalgunrights.org" { type master; notify no; file "null.zone.file"; };
 zone "track.segmetrics.io" { type master; notify no; file "null.zone.file"; };
 zone "track.software-codes.com" { type master; notify no; file "null.zone.file"; };
 zone "track.themaccleanup.info" { type master; notify no; file "null.zone.file"; };
@@ -3406,6 +3412,7 @@ zone "trk42.net" { type master; notify no; file "null.zone.file"; };
 zone "trkn.us" { type master; notify no; file "null.zone.file"; };
 zone "trknths.com" { type master; notify no; file "null.zone.file"; };
 zone "trkoptimizer.com" { type master; notify no; file "null.zone.file"; };
+zone "trkpnt.ongage.net" { type master; notify no; file "null.zone.file"; };
 zone "trmit.com" { type master; notify no; file "null.zone.file"; };
 zone "truckstomatoes.com" { type master; notify no; file "null.zone.file"; };
 zone "truehits.net" { type master; notify no; file "null.zone.file"; };
