@@ -1,8 +1,8 @@
-#last update: Tue Jun 28 15:30:01 EEST 2022
+#last update: Tue Jun 28 15:45:01 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Tue, 28 Jun 2022 07:22:28 GMT
-// entries:         3651
+// last updated:    Tue, 28 Jun 2022 12:32:22 GMT
+// entries:         3653
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -3408,6 +3408,7 @@ zone "trk.bc.shutterfly.com" { type master; notify no; file "null.zone.file"; };
 zone "trk.bee-data.com" { type master; notify no; file "null.zone.file"; };
 zone "trk.pinterest.com" { type master; notify no; file "null.zone.file"; };
 zone "trk.techtarget.com" { type master; notify no; file "null.zone.file"; };
+zone "trk.us-learn-teacher-poetry.xyz" { type master; notify no; file "null.zone.file"; };
 zone "trk42.net" { type master; notify no; file "null.zone.file"; };
 zone "trkn.us" { type master; notify no; file "null.zone.file"; };
 zone "trknths.com" { type master; notify no; file "null.zone.file"; };
@@ -3518,6 +3519,7 @@ zone "vungle.com" { type master; notify no; file "null.zone.file"; };
 zone "w55c.net" { type master; notify no; file "null.zone.file"; };
 zone "wa.and.co.uk" { type master; notify no; file "null.zone.file"; };
 zone "waardex.com" { type master; notify no; file "null.zone.file"; };
+zone "walkets.click" { type master; notify no; file "null.zone.file"; };
 zone "warlog.ru" { type master; notify no; file "null.zone.file"; };
 zone "warmafterthought.com" { type master; notify no; file "null.zone.file"; };
 zone "waryfog.com" { type master; notify no; file "null.zone.file"; };
