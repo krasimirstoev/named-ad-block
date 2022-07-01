@@ -1,8 +1,8 @@
-#last update: Fri Jul  1 13:45:02 EEST 2022
+#last update: Fri Jul  1 14:00:07 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Tue, 28 Jun 2022 12:32:22 GMT
-// entries:         3653
+// entries:         3654
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -76,6 +76,7 @@ zone "ablinks.mail.hinge.co" { type master; notify no; file "null.zone.file"; };
 zone "aboardlevel.com" { type master; notify no; file "null.zone.file"; };
 zone "abruptroad.com" { type master; notify no; file "null.zone.file"; };
 zone "absentstream.com" { type master; notify no; file "null.zone.file"; };
+zone "absoluteclickscom.com" { type master; notify no; file "null.zone.file"; };
 zone "absorbingband.com" { type master; notify no; file "null.zone.file"; };
 zone "abstractedauthority.com" { type master; notify no; file "null.zone.file"; };
 zone "absurdwater.com" { type master; notify no; file "null.zone.file"; };
