@@ -1,8 +1,8 @@
-#last update: Fri Jul  1 15:00:01 EEST 2022
+#last update: Fri Jul  1 15:15:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Tue, 28 Jun 2022 12:32:22 GMT
-// entries:         3654
+// entries:         3646
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -553,7 +553,6 @@ zone "ads.miarroba.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.mic.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.mmania.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.mobilebet.com" { type master; notify no; file "null.zone.file"; };
-zone "ads.motor-forum.nl" { type master; notify no; file "null.zone.file"; };
 zone "ads.msn.com" { type master; notify no; file "null.zone.file"; };
 zone "ads.multimania.lycos.fr" { type master; notify no; file "null.zone.file"; };
 zone "ads.muslimehelfen.org" { type master; notify no; file "null.zone.file"; };
@@ -870,7 +869,6 @@ zone "adtrade.net" { type master; notify no; file "null.zone.file"; };
 zone "adtriplex.com" { type master; notify no; file "null.zone.file"; };
 zone "adultadvertising.com" { type master; notify no; file "null.zone.file"; };
 zone "adv-adserver.com" { type master; notify no; file "null.zone.file"; };
-zone "adv-banner.libero.it" { type master; notify no; file "null.zone.file"; };
 zone "adv.cooperhosting.net" { type master; notify no; file "null.zone.file"; };
 zone "adv.donejty.pl" { type master; notify no; file "null.zone.file"; };
 zone "adv.freeonline.it" { type master; notify no; file "null.zone.file"; };
@@ -1256,7 +1254,6 @@ zone "boilingumbrella.com" { type master; notify no; file "null.zone.file"; };
 zone "bongacash.com" { type master; notify no; file "null.zone.file"; };
 zone "boomads.com" { type master; notify no; file "null.zone.file"; };
 zone "boomtrain.com" { type master; notify no; file "null.zone.file"; };
-zone "boost-my-pr.de" { type master; notify no; file "null.zone.file"; };
 zone "boredcrown.com" { type master; notify no; file "null.zone.file"; };
 zone "boringcoat.com" { type master; notify no; file "null.zone.file"; };
 zone "boudja.com" { type master; notify no; file "null.zone.file"; };
@@ -1946,7 +1943,6 @@ zone "hgads.com" { type master; notify no; file "null.zone.file"; };
 zone "highfalutinroom.com" { type master; notify no; file "null.zone.file"; };
 zone "hightrafficads.com" { type master; notify no; file "null.zone.file"; };
 zone "hilariouszinc.com" { type master; notify no; file "null.zone.file"; };
-zone "hilltopads.net" { type master; notify no; file "null.zone.file"; };
 zone "histats.com" { type master; notify no; file "null.zone.file"; };
 zone "historicalrequest.com" { type master; notify no; file "null.zone.file"; };
 zone "hit-parade.com" { type master; notify no; file "null.zone.file"; };
@@ -1997,7 +1993,6 @@ zone "hypertracker.com" { type master; notify no; file "null.zone.file"; };
 zone "hyprmx.com" { type master; notify no; file "null.zone.file"; };
 zone "hystericalcloth.com" { type master; notify no; file "null.zone.file"; };
 zone "hystericalhelp.com" { type master; notify no; file "null.zone.file"; };
-zone "i-clicks.net" { type master; notify no; file "null.zone.file"; };
 zone "i-i.lt" { type master; notify no; file "null.zone.file"; };
 zone "i1img.com" { type master; notify no; file "null.zone.file"; };
 zone "i1media.no" { type master; notify no; file "null.zone.file"; };
@@ -2163,7 +2158,6 @@ zone "leftliquid.com" { type master; notify no; file "null.zone.file"; };
 zone "lemmatechnologies.com" { type master; notify no; file "null.zone.file"; };
 zone "lemnisk.co" { type master; notify no; file "null.zone.file"; };
 zone "lettucelimit.com" { type master; notify no; file "null.zone.file"; };
-zone "levelrate.de" { type master; notify no; file "null.zone.file"; };
 zone "lever-analytics.com" { type master; notify no; file "null.zone.file"; };
 zone "lfeeder.com" { type master; notify no; file "null.zone.file"; };
 zone "lfstmedia.com" { type master; notify no; file "null.zone.file"; };
@@ -2623,7 +2617,6 @@ zone "piano.io" { type master; notify no; file "null.zone.file"; };
 zone "picadmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "piet2eix3l.com" { type master; notify no; file "null.zone.file"; };
 zone "pietexture.com" { type master; notify no; file "null.zone.file"; };
-zone "pilotaffiliate.com" { type master; notify no; file "null.zone.file"; };
 zone "pimproll.com" { type master; notify no; file "null.zone.file"; };
 zone "ping.ublock.org" { type master; notify no; file "null.zone.file"; };
 zone "pipedream.wistia.com" { type master; notify no; file "null.zone.file"; };
@@ -3474,7 +3467,6 @@ zone "valueclick.com" { type master; notify no; file "null.zone.file"; };
 zone "valueclickmedia.com" { type master; notify no; file "null.zone.file"; };
 zone "valuecommerce.com" { type master; notify no; file "null.zone.file"; };
 zone "vanfireworks.com" { type master; notify no; file "null.zone.file"; };
-zone "variablefitness.com" { type master; notify no; file "null.zone.file"; };
 zone "vcommission.com" { type master; notify no; file "null.zone.file"; };
 zone "veille-referencement.com" { type master; notify no; file "null.zone.file"; };
 zone "velismedia.com" { type master; notify no; file "null.zone.file"; };
