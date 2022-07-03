@@ -1,8 +1,8 @@
-#last update: Sun Jul  3 07:15:02 EEST 2022
+#last update: Sun Jul  3 07:30:07 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Tue, 28 Jun 2022 12:32:22 GMT
-// entries:         3646
+// last updated:    Sun, 03 Jul 2022 03:46:36 GMT
+// entries:         3647
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -2189,6 +2189,7 @@ zone "lightspeedcash.com" { type master; notify no; file "null.zone.file"; };
 zone "lightstep.medium.systems" { type master; notify no; file "null.zone.file"; };
 zone "lijit.com" { type master; notify no; file "null.zone.file"; };
 zone "link-booster.de" { type master; notify no; file "null.zone.file"; };
+zone "link.uk.expediamail.com" { type master; notify no; file "null.zone.file"; };
 zone "link4ads.com" { type master; notify no; file "null.zone.file"; };
 zone "linkadd.de" { type master; notify no; file "null.zone.file"; };
 zone "linkbuddies.com" { type master; notify no; file "null.zone.file"; };
