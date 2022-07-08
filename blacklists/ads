@@ -1,8 +1,8 @@
-#last update: Fri Jul  8 16:00:06 EEST 2022
+#last update: Fri Jul  8 16:15:02 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
-// last updated:    Sun, 03 Jul 2022 03:46:36 GMT
-// entries:         3645
+// last updated:    Fri, 08 Jul 2022 13:13:55 GMT
+// entries:         3646
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -1370,6 +1370,7 @@ zone "click.bkdpt.com" { type master; notify no; file "null.zone.file"; };
 zone "click.cartsguru.io" { type master; notify no; file "null.zone.file"; };
 zone "click.cision.com" { type master; notify no; file "null.zone.file"; };
 zone "click.classmates.com" { type master; notify no; file "null.zone.file"; };
+zone "click.digital.metaquestmail.com" { type master; notify no; file "null.zone.file"; };
 zone "click.e.progressive.com" { type master; notify no; file "null.zone.file"; };
 zone "click.em.blizzard.com" { type master; notify no; file "null.zone.file"; };
 zone "click.email.bbc.com" { type master; notify no; file "null.zone.file"; };
