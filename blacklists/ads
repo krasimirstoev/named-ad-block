@@ -1,8 +1,8 @@
-#last update: Fri Jul  8 15:00:07 EEST 2022
+#last update: Fri Jul  8 15:15:01 EEST 2022
 // For more information about this list, see: https://pgl.yoyo.org/adservers/
 // ----
 // last updated:    Sun, 03 Jul 2022 03:46:36 GMT
-// entries:         3647
+// entries:         3645
 // format:          bindconfig
 // credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
 // this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig&showintro=0&mimetype=plaintext
@@ -2703,7 +2703,6 @@ zone "protraffic.com" { type master; notify no; file "null.zone.file"; };
 zone "provenpixel.com" { type master; notify no; file "null.zone.file"; };
 zone "provexia.com" { type master; notify no; file "null.zone.file"; };
 zone "prpops.com" { type master; notify no; file "null.zone.file"; };
-zone "prsaln.com" { type master; notify no; file "null.zone.file"; };
 zone "prsitecheck.com" { type master; notify no; file "null.zone.file"; };
 zone "pstmrk.it" { type master; notify no; file "null.zone.file"; };
 zone "ptoushoa.com" { type master; notify no; file "null.zone.file"; };
@@ -3636,7 +3635,6 @@ zone "zangocash.com" { type master; notify no; file "null.zone.file"; };
 zone "zanox-affiliate.de" { type master; notify no; file "null.zone.file"; };
 zone "zanox.com" { type master; notify no; file "null.zone.file"; };
 zone "zantracker.com" { type master; notify no; file "null.zone.file"; };
-zone "zarget.com" { type master; notify no; file "null.zone.file"; };
 zone "zbwp6ghm.com" { type master; notify no; file "null.zone.file"; };
 zone "zdbb.net" { type master; notify no; file "null.zone.file"; };
 zone "zealousfield.com" { type master; notify no; file "null.zone.file"; };
